@@ -1,0 +1,17 @@
+{
+  "name": "ztm-node",
+  "version": "1.0.0",
+  "description": "Complete NodeJS Developer in 2023 (GraphQL, MongoDB, + more)",
+  "main": "1-http-request.js",
+  "scripts": {
+    "start": "node 1-http-request.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "csv-parse": "^5.4.0"
+  }
+}
